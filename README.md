@@ -14,4 +14,4 @@ This is an individual project where I created a 3D environment and a character f
    - Used **Substance Painter** for character texturing.
 
 ## Summary:
-This project showcases my skills in **3D modeling**, **concept art**, and **texturing**.
+This project showcases my skills in **3D modeling**, **concept art** and **texturing**.
